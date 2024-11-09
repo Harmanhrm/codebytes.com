@@ -79,12 +79,7 @@ Modify `_sass` files to customize:
 .
 ├── _posts              # Blog posts
 ├── _drafts             # Post drafts
-├── _data               # Site data files
-├── _includes           # Theme includes
-├── _layouts            # Theme layouts
-├── _sass               # Theme styling
-├── assets              # Static assets
-└── _config.yml         # Site configuration
+├── _data               # Site data 
 ```
 
 ## 🔍 Writing Guidelines
